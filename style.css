@@ -1,0 +1,81 @@
+#title1 {
+    color: rgb(0, 255, 136);
+}
+#title2 {
+    color: red;
+  }
+  .btn-input {
+    font-weight: 600;
+    font-size: 14px;
+    border: none;
+    color: black;
+    border-radius: 20px;
+    padding: 8px 32px;
+    background-color: greenyellow;
+    outline: 2px greenyellow;
+    transition: 300ms ease-in-out;
+  }
+  .btn-input:hover {
+    background-color: transparent;
+    color: white;
+    outline: 2px solid greenyellow;
+  }
+
+  body {
+    background-color: rgb(61, 61, 61);
+    color: white;
+    position: relative;
+  }
+  .foto2{
+    position: absolute;
+    top: 0;
+  }
+
+  .outline-btn {
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 30px;
+    background-color: transparent;
+    outline: 2px solid greenyellow;
+    transition: 300ms ease-in-out;
+  }
+  .outline-btn:hover {
+    border: none;
+    color: black;
+    border-radius: 20px;
+    background-color: greenyellow;
+    outline: 2px greenyellow;
+
+  }
+
+  .myborder th,td{
+    font-size: 14px;
+    font-weight: 600;
+    border-collapse: collapse;
+    background-color: greenyellow;
+    border: 2px solid;
+    color: black;
+    
+  }
+
+  .mychard {
+    width: 20em;
+    background-color: greenyellow;
+  }
+
+  .cardmotor .content{
+    width: 200px ;
+    padding: 1em 1em 0.1em 1em;
+
+  }
+  .title{
+    color: greenyellow;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .subtitle{
+    color: rgb(211, 58, 58);
+  }
